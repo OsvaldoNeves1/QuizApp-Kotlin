@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="app_result">Resultado</string>
+    <string name="app_image_description">Image</string>
+    <string name="app_congratulations">Ei, Parabéns!</string>
+    <string name="app_finish">Terminar</string>
+    <string name="app_welcome">Bem-vindo!</string>
+    <string name="app_type_your_name">Por favor digite seu nome</string>
+    <string name="app_name_login">Nome</string>
+    <string name="app_start">Começar</string>
+
+
+</resources>
